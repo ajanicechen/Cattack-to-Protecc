@@ -1,0 +1,1 @@
+{"version":3,"file":"gameOverText.js","sourceRoot":"","sources":["../../dev/gameOverText.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,WAAW,EAAE,MAAM,kBAAkB,CAAA;AAE9C,MAAM,OAAO,YAAa,SAAQ,WAAW;IAEzC;QAEI,KAAK,CAAC,cAAc,CAAC,CAAA;QAErB,IAAI,CAAC,GAAG,CAAC,SAAS,GAAG,YAAY,CAAA;IACrC,CAAC;CACJ"}
